@@ -1,0 +1,12 @@
+h1{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background: purple;
+  font-size: 150px;
+  color: white;
+}
+
+h2{
+  color: blue;
+}
